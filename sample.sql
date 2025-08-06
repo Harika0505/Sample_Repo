@@ -1,1 +1,1 @@
-select * from data;
+select current_date();
